@@ -1,5 +1,6 @@
 INSERT INTO bears (name) VALUES
-("Mr. Chocolate")
+("Mr. Chocolate"),
+("Rowdy");
 -- (2,"Rowdy", 10, "M", "black", "intense", 1),
 -- (3,"Tabitha", 6, "F", "dark brown", "Nice", 1),
 -- (4,"Sargeant Brown", 19, "M", "Green", "Slimy", 0),
