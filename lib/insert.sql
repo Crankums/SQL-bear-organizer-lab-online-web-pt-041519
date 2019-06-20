@@ -4,6 +4,6 @@ INSERT INTO bears (name) VALUES
 ("Tabitha"),
 ("Sargeant Brown"),
 ("Melissa"),
-("Grinch"), 
+("Grinch"),
 ("Wendy"),
 (null);
